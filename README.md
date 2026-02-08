@@ -1,3 +1,4 @@
+
 # 💬 FinTech Support Chat Application
 
 A full-stack real-time chat application built using **React**, **Node.js**, **Express**, **MongoDB**, and **Socket.IO**, designed to simulate a FinTech customer support chat system with authentication and protected routes.
@@ -48,4 +49,3 @@ cd fintech-support-chat
 
 
 ## 📁 Project Structure
-
