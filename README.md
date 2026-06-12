@@ -46,6 +46,3 @@ A full-stack real-time chat application built using **React**, **Node.js**, **Ex
 ```bash
 git clone https://github.com/sakshi24022001/fintech-support-chat.git
 cd fintech-support-chat
-
-
-## 📁 Project Structure
